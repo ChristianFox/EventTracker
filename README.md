@@ -35,12 +35,12 @@ I use this in another library [ReviewPrompter](https://github.com/ChristianFox/R
 - Enable or disable logging
 - Persist tracked events and their conditions using UserDefaults
 
-## Tests
+## 🧪 Tests
 
-The library is basically fully tested with 98.2% code coverage
+The library is almost fully tested with 98.2% code coverage
 
 
-## Installation
+## 💻 Installation
 
 ### Swift Package Manager
 To add EventTracker to your project using Swift Package Manager, add the following dependency in your Package.swift file:
@@ -61,7 +61,7 @@ targets: [
 ]
 ```
 
-## Usage
+## 🛠️ Usage
 
 Initialise an instance
 
@@ -144,7 +144,12 @@ print("Event condition: \(eventCondition)")
 ```
 
 
-## Contributing
+## 🐕‍🦺 Support
+
+Please [open an issue](https://github.com/ChristianFox/EventTracker/issues/new) for support.
+
+
+## 👷‍♂️ Contributing
 
 Pull requests are welcome. I welcome developers of all skill levels to help improve the library, fix bugs, or add new features. 
 
@@ -155,6 +160,6 @@ Before submitting a pull request, please ensure that your code adheres to the ex
 If you have any questions or need assistance, feel free to open an issue, and I'll do my best to help you out. 
 
 
-## Licence
+## 🪪 Licence
 
 EventTracker is released under the MIT Licence. See the LICENSE file for more information.
